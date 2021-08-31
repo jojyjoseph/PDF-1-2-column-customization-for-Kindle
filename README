@@ -1,8 +1,0 @@
-To try the example, Simply run:
-
-python3 main.py
-
---- Before that
-1) install PyPDF2
-2) Download the file https://taxes.marylandtaxes.gov/Resource_Library/Tax_Publications/Administrative_Releases/Income_and_Estate_Tax_Releases/ar_it26.pdf 
-3) Rename it as "in.pdf"
